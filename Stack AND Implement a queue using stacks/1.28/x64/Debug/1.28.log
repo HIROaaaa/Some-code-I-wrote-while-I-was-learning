@@ -1,0 +1,3 @@
+﻿  Stack.c
+F:\C语言\项目\1.28\1.28\Stack.c(54,1): warning C4716: “STEmpty”: 必须返回一个值
+  1.28.vcxproj -> F:\C语言\项目\1.28\x64\Debug\1.28.exe
