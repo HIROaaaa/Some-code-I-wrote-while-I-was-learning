@@ -1,0 +1,3 @@
+﻿  test.c
+F:\C语言\项目\Heap AND Sort AND BinaryTree1\Heap\test.c(77,14): warning C4552: ”/“: 未使用表达式结果
+  Heap.vcxproj -> F:\C语言\项目\Heap AND Sort AND BinaryTree1\x64\Debug\Heap.exe
