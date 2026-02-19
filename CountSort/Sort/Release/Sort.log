@@ -1,0 +1,9 @@
+﻿  test.c
+F:\C语言\项目\MergeSortNonR\Sort\test.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C语言\项目\MergeSortNonR\Sort\test.c(125,2): warning C4098: “TestCount”:“void”函数返回值
+  正在生成代码
+  7 of 26 functions (26.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Sort.vcxproj -> F:\C语言\项目\MergeSortNonR\Release\Sort.exe
