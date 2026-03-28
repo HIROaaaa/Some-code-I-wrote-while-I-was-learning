@@ -1,0 +1,7 @@
+﻿  test.cpp
+F:\C语言\本体\VC\Tools\MSVC\14.44.35207\include\Queue(146,36): error C2039: "pop_front": 不是 "std::vector<int,std::allocator<int>>" 的成员
+  (编译源文件“test.cpp”)
+      F:\C语言\本体\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      参见“std::vector<int,std::allocator<int>>”的声明
+  
+F:\C语言\项目\C++ Study 17 list AND stack AND queue\C++ Study 17 list\test.cpp(125,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
