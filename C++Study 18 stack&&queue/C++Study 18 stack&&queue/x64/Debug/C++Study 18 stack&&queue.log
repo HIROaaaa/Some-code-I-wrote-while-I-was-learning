@@ -1,0 +1,17 @@
+﻿  test.cpp
+F:\C语言\项目\C++Study 18 stack&&queue\C++Study 18 stack&&queue\PriorityQueue.h(58,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      F:\C语言\项目\C++Study 18 stack&&queue\C++Study 18 stack&&queue\PriorityQueue.h(58,24):
+      模板实例化上下文(最早的实例化上下文)为
+          F:\C语言\项目\C++Study 18 stack&&queue\C++Study 18 stack&&queue\test.cpp(9,34):
+          查看对正在编译的 类 模板 实例化“hiro::priority_queue<int,std::vector<int,std::allocator<int>>>”的引用
+          F:\C语言\项目\C++Study 18 stack&&queue\C++Study 18 stack&&queue\PriorityQueue.h(55,8):
+          在编译 类 模板 成员函数“void hiro::priority_queue<int,std::vector<int,std::allocator<int>>>::push(const T &)”时
+          with
+          [
+              T=int
+          ]
+              F:\C语言\项目\C++Study 18 stack&&queue\C++Study 18 stack&&queue\test.cpp(11,9):
+              请参阅 "main" 中对 "hiro::priority_queue<int,std::vector<int,std::allocator<int>>>::push" 的第一个引用
+  
+  C++Study 18 stack&&queue.vcxproj -> F:\C语言\项目\C++Study 18 stack&&queue\x64\Debug\C++Study 18 stack&&queue.exe
