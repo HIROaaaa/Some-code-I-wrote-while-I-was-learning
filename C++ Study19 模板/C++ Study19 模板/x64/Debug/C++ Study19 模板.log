@@ -1,0 +1,4 @@
+﻿  test.cpp
+F:\C语言\项目\C++ Study19 模板\C++ Study19 模板\test.cpp(30,10): warning C4101: “s0”: 未引用的局部变量
+F:\C语言\项目\C++ Study19 模板\C++ Study19 模板\test.cpp(33,17): warning C4101: “a1”: 未引用的局部变量
+F:\C语言\项目\C++ Study19 模板\C++ Study19 模板\test.cpp(37,1): error C4789: 函数“main”中的缓冲区“a3”(大小为 40 字节)将溢出；从偏移 4 时开始，将会写入 48 字节

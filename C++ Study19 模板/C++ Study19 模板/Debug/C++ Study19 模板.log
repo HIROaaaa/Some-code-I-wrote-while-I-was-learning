@@ -1,0 +1,3 @@
+﻿  test.cpp
+F:\C语言\项目\C++ Study19 模板\C++ Study19 模板\test.cpp(30,10): warning C4101: “s0”: 未引用的局部变量
+  C++ Study19 模板.vcxproj -> F:\C语言\项目\C++ Study19 模板\Debug\C++ Study19 模板.exe
