@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C++ Study 23 set/C++ Study 23 set.vcxproj" />
+</Solution>
