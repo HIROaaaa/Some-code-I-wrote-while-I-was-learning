@@ -1,0 +1,9 @@
+﻿  test.cpp
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(29,37): error C2001: 常量中有换行符
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(30,2): error C2059: 语法错误:“<template-id>”
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(30,35): error C2001: 常量中有换行符
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(31,16): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(32,43): error C2001: 常量中有换行符
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(33,2): error C2146: 语法错误: 缺少“)”(在标识符“m1”的前面)
+F:\C语言\项目\C++ Study 24 SetAndMap\C++ Study 24 set\test.cpp(33,2): error C2146: 语法错误: 缺少“;”(在标识符“m1”的前面)
