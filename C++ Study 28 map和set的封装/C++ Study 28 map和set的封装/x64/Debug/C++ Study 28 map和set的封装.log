@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\计算机\source\repos\C++ Study 28 map和set的封装\C++ Study 28 map和set的封装\Myset.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“test.cpp”)
+  
+C:\Users\计算机\source\repos\C++ Study 28 map和set的封装\C++ Study 28 map和set的封装\Mymap.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“test.cpp”)
+  
+  C++ Study 28 map和set的封装.vcxproj -> C:\Users\计算机\source\repos\C++ Study 28 map和set的封装\x64\Debug\C++ Study 28 map和set的封装.exe
