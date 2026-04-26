@@ -1,0 +1,34 @@
+﻿  test.cpp
+F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\HashTable.h(223,59): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  (编译源文件“test.cpp”)
+      F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\HashTable.h(223,59):
+      模板实例化上下文(最早的实例化上下文)为
+          F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\test.cpp(68,32):
+          查看对正在编译的 类 模板 实例化“hiro::unordered_map<std::string,std::string>”的引用
+          F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\UnorderedMap.h(16,76):
+          查看对正在编译的 类 模板 实例化“hash_bucket::HashTable<K,std::pair<const K,V>,hiro::unordered_map<K,V>::MapKeyOfT,HashFunc<std::string>>”的引用
+          with
+          [
+              K=std::string,
+              V=std::string
+          ]
+          F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\HashTable.h(211,23):
+          在编译 类 模板 成员函数“std::pair<hash_bucket::HTIterator<K,T,T &,T *,KeyOfT,Hash>,bool> hash_bucket::HashTable<K,T,KeyOfT,Hash>::Insert(const T &)”时
+          with
+          [
+              K=std::string,
+              T=std::pair<const std::string,std::string>,
+              KeyOfT=hiro::unordered_map<std::string,std::string>::MapKeyOfT,
+              Hash=HashFunc<std::string>
+          ]
+              F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\UnorderedMap.h(41,4):
+              请参阅 "hiro::unordered_map<std::string,std::string>::insert" 中对 "hash_bucket::HashTable<K,std::pair<const K,V>,hiro::unordered_map<K,V>::MapKeyOfT,HashFunc<std::string>>::Insert" 的第一个引用
+          with
+          [
+              K=std::string,
+              V=std::string
+          ]
+              F:\C语言\项目\C++ Study 32 hash\C++ Study32 hash\test.cpp(69,13):
+              请参阅 "test_map" 中对 "hiro::unordered_map<std::string,std::string>::insert" 的第一个引用
+  
+  C++ Study32 hash.vcxproj -> F:\C语言\项目\C++ Study 32 hash\x64\Debug\C++ Study32 hash.exe
